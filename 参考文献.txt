@@ -1,0 +1,16 @@
+https://blog.csdn.net/tz_zs/article/details/78151832 ——NLP入门
+https://www.jiqizhixin.com/articles/2019-10-25-5 ——Spacy
+https://spacy.io/universe/project/blackstone ——法律结构化
+https://spacy.io/universe/project/kindred ——医学信息提取
+https://blog.csdn.net/valada/article/details/80892583 ——中文自然语言处理 分割+词性
+https://www.jianshu.com/p/cf383fd471bb ——提取中文关键词
+http://www.nltk.org/nltk_data/ ——NLTK数据列表
+https://pypi.org/project/jieba/ ——jiebaPypi
+https://blog.csdn.net/qq_19741181/article/details/79357875 ——【实例】python中jieba 添加 自定义词语？
+https://blog.csdn.net/ss654271961/article/details/78578511 ——python调用jieba(结巴)分词 加入自定义词典和去停用词功能
+https://blog.csdn.net/zhuzuwei/article/details/80487032 ——自然语言处理学习3：中文分句re.split()，jieba分词和词频统计FreqDist
+https://nlp.stanford.edu/software/CRF-NER.shtml
+https://blog.csdn.net/Pit3369/article/details/95594728 ——三种中文关键词提取方法
+https://1024.com/a/453/8%E4%B8%AApython%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86nlp%E5%B7%A5%E5%85%B7 ——NLP工具
+https://blog.csdn.net/suibianshen2012/article/details/68927060 ——jieba结巴分词--关键词抽取（核心词抽取）
+https://blog.csdn.net/cadi2011/article/details/85857917 ——Python之字典添加元素

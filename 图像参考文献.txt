@@ -1,0 +1,7 @@
+https://blog.csdn.net/m0_37852937/article/details/85031853 ——nii读取
+https://blog.csdn.net/Michelexie/article/details/81907613 ——nrrd读取
+https://blog.csdn.net/PKnotnull/article/details/80841410 ——python 读取并显示 .nii格式文件(nibabel库）
+https://blog.csdn.net/ZhangYuq16/article/details/97274509 ——python-TypeError: list indices must be integers or slices, not tuple 报错解决方案
+https://code-examples.net/zh-CN/q/460454 ——numpy非零元素个数 - python array条件
+https://www.cnblogs.com/massquantity/p/8908859.html ——numpy.where() 用法详解
+https://www.runoob.com/python/python-tuples.html ——Python 元组
