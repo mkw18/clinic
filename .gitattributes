@@ -1,0 +1,9 @@
+bai[[:space:]]de[[:space:]]hua_20200217_88_F.nii filter=lfs diff=lfs merge=lfs -text
+bai[[:space:]]de[[:space:]]hua_20200228_88_F.nii filter=lfs diff=lfs merge=lfs -text
+bai[[:space:]]hong_20200122_50_M.nii filter=lfs diff=lfs merge=lfs -text
+x/lesion/zj_covid_sort_by_pid_bao[[:space:]]ju[[:space:]]xiang_20200227_73_F_label.nrrd filter=lfs diff=lfs merge=lfs -text
+x/lobe/zj_covid_sort_by_pid_bao[[:space:]]ju[[:space:]]xiang_20200227_73_F.nii filter=lfs diff=lfs merge=lfs -text
+x/image/bai[[:space:]]de[[:space:]]hua_20200217_88_F.nii filter=lfs diff=lfs merge=lfs -text
+x/image/bai[[:space:]]de[[:space:]]hua_20200228_88_F.nii filter=lfs diff=lfs merge=lfs -text
+x/image/bai[[:space:]]hong_20200122_50_M.nii filter=lfs diff=lfs merge=lfs -text
+*.nii filter=lfs diff=lfs merge=lfs -text
